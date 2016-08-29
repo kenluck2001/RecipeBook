@@ -16,7 +16,7 @@ import com.vaadin.ui.Window.Notification;
 
 /**
  *
- * @author anmkosk
+ * @author anmkosk, kenneth
  */
 public class AddView extends VerticalLayout {
     private RecipebookApplication application;
