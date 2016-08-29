@@ -7,7 +7,7 @@ package client;
 
 /**
  *
- * @author anmkosk
+ * @author anmkosk, kenneth
  */
 public enum Current {
     RECIPE(),
